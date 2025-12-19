@@ -1,3 +1,3 @@
 <?php
-echo "<h1>Tugas Ferdi</h1>";
+echo "<h1>ferdi jelek</h1>";
 ?>
